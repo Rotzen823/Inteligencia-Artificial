@@ -1,0 +1,7 @@
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.exe.config
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.exe
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\bin\Debug\8_Puzzle.pdb
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.AssemblyReference.cache
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.exe
+D:\Escuela\Semestre 8\Intelgiencia Artificial\Practicas\8_Puzzle\8_Puzzle\obj\Debug\8_Puzzle.pdb
